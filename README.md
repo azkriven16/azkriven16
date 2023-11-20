@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a side project [Shisso](https://shisso.vercel.app/)<br>👯 I’m looking to collaborate with fellow developers who are also passionate about web development and want to work on interesting projects together.<br>🤝 I’m looking for help with improving my project's performance optimization and debugging skills.<br>🌱 I’m currently learning more about Drizzle ORM to enhance my backend development skills.<br>💬 Ask me about web development, my college experience, or tips for managing side projects while studying.
+🔭 I’m currently working on a side project [Animinji](https://animinji.vercel.app/)<br>👯 I’m looking to collaborate with fellow developers who are also passionate about web development and want to work on interesting projects together.<br>🤝 I’m looking for help with improving my project's performance optimization and debugging skills.<br>🌱 I’m currently learning more about Drizzle ORM to enhance my backend development skills.<br>💬 Ask me about web development, my college experience, or tips for managing side projects while studying.
 
 
 ## 🌐 Socials:
