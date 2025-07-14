@@ -1,4 +1,4 @@
-# Hello World!, I'm Euger, a Filipino Web Developer 👋🏼:
+# Hello World!, I'm Euger, a Frontend Web Developer 👋🏼:
 
 I'm currently working on my own [webpage](https://eugerbonete.vercel.app/)<br>👨🏼‍🎓 studying information technology at Northern Iloilo State Collage<br>👨🏼‍💻 working as a web developer since 2021
 
